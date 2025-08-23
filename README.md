@@ -22,7 +22,7 @@ Key focus for this version: **Idea validation, consultancy, payments, and team b
 
 ---
 
-## Core Modules & Endpoints (Faisal)
+## Core Modules & Endpoints I worked on
 
 | Module         | Endpoint                   | Description                              |
 | -------------- | -------------------------- | ---------------------------------------- |
@@ -85,4 +85,5 @@ Key focus for this version: **Idea validation, consultancy, payments, and team b
 * AI-powered guidance leverages OpenAI APIs for personalized advice.
 * Endpoints are RESTful and tested via Postman.
 * Documented using Swagger.
+
 
