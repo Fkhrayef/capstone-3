@@ -51,6 +51,16 @@ Key focus for this version: **Idea validation, consultancy, payments, and team b
 
 ---
 
+## APIs Used
+
+| API             | Purpose                                                  |
+| --------------- | -------------------------------------------------------- |
+| OpenAI          | AI advisor, business idea validation, insights, guidance |
+| Moyasar         | Payment processing                                       |
+| Moyasar Webhook | Payment callbacks and subscription handling              |
+
+---
+
 ## Entities
 
 * **User:** Founder, Investor, Advisor, Freelancer
@@ -63,13 +73,9 @@ Key focus for this version: **Idea validation, consultancy, payments, and team b
 
 ---
 
-## APIs Used
+## DB Diagram
+<img width="571" height="851" alt="image" src="https://github.com/user-attachments/assets/8dfc12e7-7ab3-4bdb-8bdd-f8aaabb12569" />
 
-| API             | Purpose                                                  |
-| --------------- | -------------------------------------------------------- |
-| OpenAI          | AI advisor, business idea validation, insights, guidance |
-| Moyasar         | Payment processing                                       |
-| Moyasar Webhook | Payment callbacks and subscription handling              |
 
 ---
 
@@ -79,3 +85,4 @@ Key focus for this version: **Idea validation, consultancy, payments, and team b
 * AI-powered guidance leverages OpenAI APIs for personalized advice.
 * Endpoints are RESTful and tested via Postman.
 * Documented using Swagger.
+
